@@ -1,12 +1,13 @@
 {
   "name": "Timer.js",
   "version": "0.0.1",
-  "main": "Timer.js",
   "authors": "Florian Schäfer",
   "private": true,
   "ignore": [
-    "*.*",
-    "!Timer.js",
+    ".gitignore",
+    "*.json",
+    "*.txt",
+    "*.md",
     "test",
     "misc"
   ]
